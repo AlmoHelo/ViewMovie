@@ -1,0 +1,21 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 2em;
+    padding-right: 4em;
+    background-color: rgba(0, 0, 0, 0.521);
+    color: white;
+    height: 3.5em;
+    font-size: 20px;
+    .firstHeader{
+        display: flex;
+    }
+    .navbar ul{
+        display: flex;
+        margin-left: 6em;
+        li{
+            margin: 0 1em;
+        }
+    }
+}
